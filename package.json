@@ -4,6 +4,6 @@
 	"private": false,
 	"dependencies": {
   	"node-zookeeper-client": "0.2.0",
-  	"pomelo-logger": "git://github.com/silverera/pomelo-logger.git#v0.1.8"
+  	"pomelo-logger": "https://github.com/shangjingame/pomelo-logger.git#v0.2.0"
 	}
 }
